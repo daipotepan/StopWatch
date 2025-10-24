@@ -1,0 +1,11 @@
+.Start, .Stop,.Reset{
+    padding: 10px;
+    justify-content: center;
+}
+
+.Timer{
+    padding: 15px;
+    margin: 0;
+    font-size: 30px;
+    width: fit-content;
+}
